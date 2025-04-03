@@ -44,7 +44,7 @@ function App() {
               <Route path="/data-input" element={<DataInput />} />
               <Route path="/about-us" element={<AboutUs />} />
               {/* Optional: Add a 404 route */}
-              <Route path="*" element={<div>Page Not Found</div>} />
+              <Route path="*" element={<div>Page Not Found 404</div>} />
             </Routes>
           </main>
         </div>
