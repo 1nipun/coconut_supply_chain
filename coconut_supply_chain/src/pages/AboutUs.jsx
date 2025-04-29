@@ -4,7 +4,7 @@ function AboutUs() {
   return (
     <div style={styles.container}>
       <section style={styles.heroSection}>
-        <h1 style={styles.title}>About Coconut Supply Chain Management</h1>
+        <h1 style={styles.title}> Coconut Supply Chain Management</h1>
         <p style={styles.subtitle}>
           Leveraging Machine Learning to transform traditional coconut supply chains
         </p>
