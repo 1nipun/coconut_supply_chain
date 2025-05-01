@@ -9,7 +9,7 @@ import AboutUs from "./pages/AboutUs";
 import Login from "./auth/Login";
 import Register from "./auth/Register";
 import ForgotPassword from "./auth/ForgotPassword"; // optional if you're using it
-import Suppliers from "./pages/Suppliers"; // optional if you're using it
+import Suppliers from "./pages/suppliers"; // optional if you're using it
 
 function App() {
   const [count, setCount] = useState(0);
